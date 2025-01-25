@@ -1,8 +1,8 @@
 streamlit
 flask
-google-auth
-google-auth-oauthlib
-google-api-python-client
 sentence-transformers
 spacy
 transformers
+faiss-cpu
+google-generativeai
+numpy
