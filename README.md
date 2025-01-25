@@ -22,7 +22,7 @@ Rasa is an open-source conversational AI platform that offers the following adva
 Rasa's flexibility and emphasis on developer control make it an ideal choice for building a robust virtual assistant like this project.
 
 ## Repository Contents
-1. **`rag_code.py`**: Implements the RAG pipeline for FAQ retrieval.
+1. **`embeddings.py`**: It Generates the embeddings for FAQ retrieval.
 2. **`order_tracking.py`**: A mock Flask-based order tracking API.
 3. **`app.py`**: Streamlit-based frontend integrating all features.
 4. **FAQ Dataset**: Contains sample FAQ data in JSON format (`Ecommerce_FAQ_Chatbot_dataset.json`).
